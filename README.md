@@ -4,7 +4,10 @@ Call-a-Car is a hypothetical project created as part of the Afstuderen Light cou
 To ensure fast development and future scalability, the application is built using:
 
 Web technologies
-Laravel (PHP) for both backend and frontend (Blade templating) MongoDB with Mongoose (NoSQL) for flexible data handling MVC architecture and a RESTful API Some features like fingerprint-based payments were scoped out due to time constraints but planned for future integration.
+Laravel (PHP) for both backend and frontend (Blade templating) 
+MongoDB with Mongoose (NoSQL) for flexible data handling 
+MVC architecture 
+RESTful API Some features like fingerprint-based payments were scoped out due to time constraints but planned for future integration.
 
 ## 🎯 Goal
 “Develop a platform to replace car ownership with a pay-per-use self-driving car service.”
