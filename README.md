@@ -1,4 +1,4 @@
-# 🚗 Call-a-Car – Afstuderen Light Project
+# Call-a-Car – Afstuderen Light Project
 Call-a-Car is a hypothetical project created as part of the Afstuderen Light course. It was not meant to be fully developed but served as an exercise to carefully think through and design an application within a given virtual context. The project focuses on a futuristic car-sharing service using self-driving vehicles to replace car ownership. The concept includes a customer-facing app, an admin system with user roles, and integration with a third-party parking API. Throughout the process, research was conducted using interviews, documentation, and stakeholder requirements, with strong attention to privacy, accessibility, and sustainability and integration with a third-party API('s). Time constraints were a conscious obstacle in the project to test prioritization and decision-making throughout development.
 
 This application is built using:
