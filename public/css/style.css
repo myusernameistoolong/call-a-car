@@ -1,0 +1,104 @@
+.footer .z-0 {
+    display: none;
+}
+
+.navbar-brand {
+    color: #ffffff !important;
+    font-weight: bold;
+    font-size: 2rem !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff !important;
+}
+
+.btn-danger {
+    background: #DB2800;
+    border-color: #DB2800;
+}
+/*#DBBA00*/
+.navbar-light {
+    background: #0069D9;
+}
+
+/*Copy*/
+.copy{
+    -webkit-border-radius: 8px !important;
+    -moz-border-radius: 8px !important;
+    border-radius: 8px !important;
+    color: #ffffff;
+    font-size: 14px;
+    background: #007bff;
+    position: relative;
+}
+
+.tooltip-copy textarea{
+    height: 36px;
+}
+
+.copy:before{
+    content:"";
+    position: absolute;
+    right: 100%;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right:10px solid #007bff;
+}
+
+.tooltip-copy {
+    position: relative;
+}
+
+.tooltip-copy .tooltiptext {
+    /*width: 200px;*/
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 5;
+    bottom: 105%;
+    left: 50%;
+    margin-left: -75px;
+    opacity: 0;
+    -webkit-transition: opacity 0.20s ease-in;
+    -moz-transition: opacity 0.20s ease-in;
+    -o-transition: opacity 0.20s ease-in;
+    transition: opacity 0.20s ease-in;
+}
+
+.tooltip-copy .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltip-copy .password{
+    color: transparent;
+}
+
+.tooltip-copy .password:hover{
+    color: #fff;
+    -webkit-transition:     color 0.15s ease;
+    -moz-transition:        color 0.15s ease;
+    -o-transition:          color 0.15s ease;
+    transition:             color 0.15s ease;
+}
+
+.tooltip-copy:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+    -webkit-transition:     opacity 0.35s ease;
+    -moz-transition:        opacity 0.35s ease;
+    -o-transition:          opacity 0.35s ease;
+    transition:             opacity 0.35s ease;
+}
