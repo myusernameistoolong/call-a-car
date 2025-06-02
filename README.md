@@ -13,28 +13,20 @@ This application is built using:
 “Develop a platform to replace car ownership with a pay-per-use self-driving car service.”
 
 ## 🧩 Key Features
-Web-based application with a focus on mobile usability.
-
-User roles and permissions, including regular users and admins.
-
-Trip booking system with a discount model for loyal customers.
-
-Integration with third-party API for parking availability.
-
-Offline fallback through downloadable PDF with booking info.
-
-Future-proof design prepared for integration with biometric payments and native mobile apps.
-
-Privacy-focused, respecting user rights in collaboration with Bits of Freedom.
+- Web-based application with a focus on mobile usability.
+- User roles and permissions, including regular users and admins.
+- Trip booking system with a discount model for loyal customers.
+- Integration with third-party API for parking availability.
+- Offline fallback through downloadable PDF with booking info.
+- Future-proof design prepared for integration with biometric payments and native mobile apps.
+- Privacy-focused, respecting user rights in collaboration with Bits of Freedom.
 
 ## 📌 Project Context
 The application was developed in response to a fictional startup initiative, supported by several stakeholders including:
 
-Bits of Freedom – for privacy advocacy
-
-Ministry of Infrastructure – promoting future mobility
-
-Startup founder: Alex Aanvoerder
+- Bits of Freedom – for privacy advocacy
+- Ministry of Infrastructure – promoting future mobility
+- Startup founder: Alex Aanvoerder
 
 Due to time constraints, some features (like fingerprint-based payments) were documented but not yet implemented.
 
